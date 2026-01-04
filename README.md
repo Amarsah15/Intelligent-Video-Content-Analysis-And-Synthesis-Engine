@@ -92,7 +92,7 @@ AI-video_summarizer/
 
 ```bash
 git clone https://github.com/Amarsah15/Intelligent-Video-Content-Analysis-And-Synthesis-Engine.git
-cd AI-video_summarizer
+cd Intelligent-Video-Content-Analysis-And-Synthesis-Engine
 ```
 
 ### 2. Backend Setup
