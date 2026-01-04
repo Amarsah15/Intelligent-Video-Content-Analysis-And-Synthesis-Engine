@@ -1,4 +1,4 @@
-# AI Video Summarizer
+# Intelligent Video Content Analysis & Synthesis Engine
 
 An AI-powered web application that automatically converts long videos into concise and meaningful summaries using modern Speech Recognition and Natural Language Processing models.
 
